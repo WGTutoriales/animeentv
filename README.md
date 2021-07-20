@@ -7,8 +7,7 @@ Características:
 
 
 Panel Atractivo
-
-Admite Versión PHP 5.6 – 7.4
+- [X] Admite Versión PHP 5.6 – 7.4
 
 Incluye Perfil de Usuarios (Lista de Series y vistos)
 
