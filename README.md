@@ -4,9 +4,9 @@ Demo: https://animeentv.com/
 El Script esta diseñado para transmitir todos tus videos de las series de anime, incluyendo seguridad y protección del mismo, encriptando el enlace de los videos.
 
 Características:
-Panel Atractivo
-Admite Versión PHP 5.6 – 7.4
-Incluye Perfil de Usuarios (Lista de Series y vistos)
+1.Panel Atractivo
+2.Admite Versión PHP 5.6 – 7.4
+3.Incluye Perfil de Usuarios (Lista de Series y vistos)
 Incluye Modo Serie o Anime (Documentación)
 Incluye 4 Temas (Morado, Verde, Oscuro, Azul)
 Incluye Panel de Administración (Completo)
