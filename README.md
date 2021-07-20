@@ -1,5 +1,5 @@
 # AnimeenTV
-# Demo: https://animeentv.com/
+# Demo: https://animeentv.com
 
 El Script esta diseñado para transmitir todos tus videos de las series de anime, incluyendo seguridad y protección del mismo, encriptando el enlace de los videos.
 
